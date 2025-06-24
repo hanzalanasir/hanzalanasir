@@ -13,10 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hanzalanasir5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanzalanasir5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hanzalanasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanzalanasir" height="30" width="40" /></a>
-<a href="https://fb.com/hanzalasiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanzalasiddiqui" height="30" width="40" /></a>
-<a href="https://instagram.com/hanzalaa007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanzalaa007" height="30" width="40" /></a>
+<a href="https://x.com/HanzalaNasir5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanzalanasir5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hanzala-nasir-60306b2b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanzalanasir" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hanzala.siddiqui.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanzalasiddiqui" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hanzalaa007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanzalaa007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shutterbugkiller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutterbugkiller" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
