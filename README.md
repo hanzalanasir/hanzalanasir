@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hanzala.nasir2018@gmail.com**
 
-- ⚡ Fun fact **Iphone is better than Android**
+- ⚡ Fun fact **Iphone is better than Android or vice versa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
