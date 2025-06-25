@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/hanzalanasir/hanzalanasir/blob/main/Computer%20Code%20GIF%20-%20Computer%20Code%20Decrypting%20-%20Discover%20%26%20Share%20GIFs.gif" alt="logo" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hanzala Siddiqui</h1>
 <h3 align="center">FAST NUCES, where My Code Begins</h3>
 
